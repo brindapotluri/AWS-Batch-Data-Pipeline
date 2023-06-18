@@ -29,7 +29,7 @@ Steps:
 
  •	Our target table is DynamoDB table and we should not have duplicates there so specific Spark script is used to handle duplicate data.
 
-Loading data into DynamoDB:
+Loading the data into DynamoDB:
 
  •	Data can be loaded in batches.
 
